@@ -1,0 +1,22 @@
+{
+  "name": "fn-unary",
+  "version": "1.0.0",
+  "description": "wrap a function to accept only one argument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/undoZen/fn-unary.git"
+  },
+  "keywords": [
+    "functional"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/fn-unary/issues"
+  },
+  "homepage": "https://github.com/undoZen/fn-unary"
+}
